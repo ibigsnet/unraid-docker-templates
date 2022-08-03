@@ -24,8 +24,8 @@ You can also run multiple servers with only one SteamCMD directory!</Overview>
   <PostArgs/>
   <CPUset/>
   <DateInstalled></DateInstalled>
-  <DonateText></DonateText>
-  <DonateLink></DonateLink>
+  <DonateText>If you feel like helping me out, it's appreciated!</DonateText>
+  <DonateLink>https://paypal.me/RifleJock</DonateLink>
   <Requires>[ ! --- READ ME --- ! ] &#xD;
 &#xD;
 No ports/port forwarding needed!&#xD;
