@@ -23,9 +23,9 @@ You can also run multiple servers with only one SteamCMD directory!</Overview>
   <ExtraParams>--restart=unless-stopped</ExtraParams>
   <PostArgs/>
   <CPUset/>
-  <DateInstalled>1659487948</DateInstalled>
-  <DonateText>If you like my work please </DonateText>
-  <DonateLink>https://www.paypal.me/chips777</DonateLink>
+  <DateInstalled></DateInstalled>
+  <DonateText></DonateText>
+  <DonateLink></DonateLink>
   <Requires>[ ! --- READ ME --- ! ] &#xD;
 &#xD;
 No ports/port forwarding needed!&#xD;
