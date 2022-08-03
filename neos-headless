@@ -23,7 +23,7 @@ You can also run multiple servers with only one SteamCMD directory!</Overview>
   <ExtraParams>--restart=unless-stopped</ExtraParams>
   <PostArgs/>
   <CPUset/>
-  <DateInstalled>1659487512</DateInstalled>
+  <DateInstalled>1659487948</DateInstalled>
   <DonateText>If you like my work please </DonateText>
   <DonateLink>https://www.paypal.me/chips777</DonateLink>
   <Requires>[ ! --- READ ME --- ! ] &#xD;
@@ -47,7 +47,5 @@ An example of the Config.json file can be found in the discord pinned messages i
   <Config Name="Validate Installation" Target="VALIDATE" Default="" Mode="" Description="Set the Variable to 'true' if you want to validate the installation otherwise leave it blank." Type="Variable" Display="always-hide" Required="false" Mask="false"/>
   <Config Name="UID" Target="UID" Default="" Mode="" Description="" Type="Variable" Display="advanced-hide" Required="true" Mask="false">99</Config>
   <Config Name="GID" Target="GID" Default="" Mode="" Description="" Type="Variable" Display="advanced-hide" Required="true" Mask="false">100</Config>
-  <Config Name="Steam-Username" Target="USERNAME" Default="" Mode="" Description="Your Steam username goes here if you want to install a game that needs a valid account, otherwise leave it blank (ATTENTION: You have to disable Steam Guard)." Type="Variable" Display="advanced-hide" Required="false" Mask="false"/>
-  <Config Name="Steam-Password" Target="PASSWRD" Default="" Mode="" Description="Your Steam password goes here if you want to install a game that needs a valid account, otherwise leave it blank (ATTENTION: You have to disable Steam Guard)." Type="Variable" Display="advanced-hide" Required="false" Mask="true"/>
   <Config Name="Host Local Time Injected to Container" Target="/etc/localtime" Default="/etc/localtime" Mode="ro" Description="This pulls your local timezone file from UNRAID to manage the neos-headless server timezone. | Recommended read-only." Type="Path" Display="advanced-hide" Required="true" Mask="false">/etc/localtime</Config>
 </Container>
